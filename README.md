@@ -93,7 +93,7 @@ AI-powered application that summarizes patient drug reviews into actionable insi
 
 ### 🥗 NutriAccess Food Environment Analysis
 
-*Python • Data Engineering • Tableau • Public Health*
+*Python • Data Engineering • Public Health*
 
 Data science pipeline designed to analyze food access, socioeconomic conditions, and health indicators to identify communities at risk of limited access to healthy food.
 
