@@ -11,7 +11,9 @@
 I'm a former Research & Development Scientist with a background in Biology and Public Health, currently pursuing an M.S. in Applied Data Science at the University of San Diego. My interests lie at the intersection of machine learning, healthcare, and bioinformatics, where I enjoy building data-driven solutions to support research and public health decision-making.
 
 🎓 M.S. Applied Data Science Candidate | University of San Diego
+
 🧬 Biology + Public Health Background
+
 💻 Aspiring Bioinformatics & Biostatistics Data Scientist focused on applying machine learning to genomics and healthcare.
 
 ---
@@ -96,13 +98,6 @@ AI-powered application that summarizes patient drug reviews into actionable insi
 Data science pipeline designed to analyze food access, socioeconomic conditions, and health indicators to identify communities at risk of limited access to healthy food.
 
 🔗 [Repository](https://github.com/ngwalker93/ADS508Group3)
-
----
-
-## GitHub Status 
-
-![Nancy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngwalker93&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngwalker93&layout=compact&theme=transparent)
 
 ---
 
