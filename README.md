@@ -8,13 +8,13 @@
 
 ## Hi there 👋 I'm Nancy Walker
 
-I'm a former Research & Development Scientist with a background in Biology and Public Health, currently pursuing an M.S. in Applied Data Science at the University of San Diego. My interests lie at the intersection of machine learning, healthcare, and bioinformatics, where I enjoy building data-driven solutions to support research and public health decision-making.
+I'm a former Research & Development Scientist with a background in biology, public health, and applied data science. My interests lie at the intersection of machine learning, healthcare, and bioinformatics, where I enjoy building data-driven solutions to support research and public health decision-making.
 
-🎓 M.S. Applied Data Science Candidate | University of San Diego
+🎓 M.S. Applied Data Science | University of San Diego
 
 🧬 Biology + Public Health Background
 
-💻 Aspiring Bioinformatics & Biostatistics Data Scientist focused on applying machine learning to genomics and healthcare.
+💻 Growing Focus on Bioinformatics & Biostatistics — applying my data science background to genomics and healthcare.
 
 ---
 
