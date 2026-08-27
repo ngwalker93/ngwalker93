@@ -21,7 +21,7 @@ I'm a former Research & Development Scientist with a background in Biology and P
 ## 🔬 Current Interests
 
 - Genomics
-- Cancer Bioinformatics
+- Bioinformatics
 - Survival Analysis
 - Predictive Modeling
 - AI for Healthcare
@@ -58,7 +58,9 @@ I'm a former Research & Development Scientist with a background in Biology and P
 
 ## 🚀 Currently Working On
 
-- 🩺 Hypertension Risk Atlas (Capstone)
+- Building my data science portfolio
+- Kaggle competitions
+- Exploring freelance data science opportunities
 
 ---
 
@@ -66,38 +68,17 @@ I'm a former Research & Development Scientist with a background in Biology and P
 
 - Bioinformatics workflows
 - Survival analysis
-- Streamlit deployment
+- Streamlit app development
 - Advanced R for genomics
 
 ---
 
 ## 📂 Featured Projects
-
-### 🩺 Hypertension Risk Atlas
-*Python • Streamlit • Machine Learning • Public Health*
-
-Interactive dashboard for exploring hypertension risk and social determinants of health.
-
-🔗 [Repository](https://github.com/xuany823/ADS599_Capstone_Hypertension_Risk_Atlas)
-
----
-
-### 💊 Drug Review Insights & Summarization Tool
-*Python • LLMs • NLP • Streamlit*
-
-AI-powered application that summarizes patient drug reviews into actionable insights for healthcare professionals.
-
-🔗 [Repository](https://github.com/mvillanueva00/ADS-509-Final-Project)
-
----
-
-### 🥗 NutriAccess Food Environment Analysis
-
-*Python • Data Engineering • Public Health*
-
-Data science pipeline designed to analyze food access, socioeconomic conditions, and health indicators to identify communities at risk of limited access to healthy food.
-
-🔗 [Repository](https://github.com/ngwalker93/ADS508Group3)
+| Project | Tools | Description | Repository 🔗 | 
+|---------|-------|-------------|---------------|
+| 🩺 Hypertension Risk Atlas (Capstone) | *Python • Streamlit • Machine Learning • Public Health* | Interactive dashboard for exploring hypertension risk and social determinants of health. | [Repository](https://github.com/xuany823/ADS599_Capstone_Hypertension_Risk_Atlas) |
+| 💊 Drug Review Insights & Summarization Tool | *Python • LLMs • NLP • Streamlit* | AI-powered application that summarizes patient drug reviews into actionable insights for healthcare professionals. | [Repository](https://github.com/mvillanueva00/ADS-509-Final-Project) |
+| 🥗 NutriAccess Food Environment Analysis | *Python • Data Engineering • Public Health* | Data science pipeline that analyzes food access, socioeconomic conditions, and health indicators to identify communities at risk of limited access to healthy food. | [Repository](https://github.com/ngwalker93/ADS508Group3) |
 
 ---
 
