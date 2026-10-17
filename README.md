@@ -20,11 +20,11 @@ I'm a former Research & Development Scientist with a background in biology, publ
 
 ## 🔬 Current Interests
 
-- Genomics
-- Bioinformatics
-- Survival Analysis
+- Genomics & Bioinformatics
+- Biostatistics & Survival Analysis
+- Healthcare & Public Health Analytics
 - Predictive Modeling
-- AI for Healthcare
+- AI Applications in Healthcare
 
 ---
 
@@ -53,23 +53,6 @@ I'm a former Research & Development Scientist with a background in biology, publ
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 🚀 Currently Working On
-
-- Building my data science portfolio
-- Kaggle competitions
-- Exploring freelance data science opportunities
-
----
-
-## 🌱 Currently Learning
-
-- Bioinformatics workflows
-- Survival analysis
-- Streamlit app development
-- Advanced R for genomics
 
 ---
 
